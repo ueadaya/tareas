@@ -12,7 +12,7 @@ print(informacion_personal)
 informacion_personal['ciudad'] = "Cuenca"
 print(informacion_personal)
 
-# Agregar profecion
+# Agregar profesion
 informacion_personal[('profesion')] = "militar"
 print(informacion_personal)
 
